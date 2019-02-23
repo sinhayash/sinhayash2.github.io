@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "sinhayash",
-        "url": "http://github.com/sinhayash"
-      },
-      {
         "network": "google",
         "username": "sinhayash",
         "url": "https://bit.ly/yashsinha"
