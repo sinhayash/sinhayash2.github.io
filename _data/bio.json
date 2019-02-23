@@ -29,11 +29,16 @@
     },
     {
       "name": "Network Programmability",
-      "keywords": ["P4"]
+      "keywords": [
+        "P4"
+      ]
     },
     {
       "name": "P2P Networks",
-      "keywords": ["Chord", "WebRTC"]
+      "keywords": [
+        "Chord",
+        "WebRTC"
+      ]
     }
   ],
   "skills": [
@@ -41,23 +46,35 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
+        "P4,"
+        "JavaScript",
         "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "MySQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Web Stack",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "HTML 5",
+        "CSS 3",
+        "NodeJS",
+        "Django",
+        "jQuery",
+        "webRTC",
+        "three.js"
+      ]
+    },
+    {
+      "name": "Packages",
+      "level": "",
+      "keywords": [
+        "Numpy",
+        "Scikit-learn",
+        "Scikit-image",
+        "Matplotlib"
       ]
     }
   ],
