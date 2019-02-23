@@ -83,7 +83,7 @@
       "institution": "National University of Singapore",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "Ph.D.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-06",
       "endDate": "Present",
       "gpa": "",
       "courses": []
@@ -92,7 +92,16 @@
       "institution": "Birla Institute of Technology and Science, Pilani ",
       "area": "Computer Science",
       "studyType": "M.E.",
+      "startDate": "2016-08-01",
       "endDate": "2018",
+      "courses": []
+    },
+    {
+      "institution": "Birla Institute of Technology and Science, Pilani ",
+      "area": "Informations Systems",
+      "studyType": "M.Sc.(Tech.)",
+      "startDate": "2012-08-01",
+      "endDate": "2016",
       "courses": []
     }
   ],
