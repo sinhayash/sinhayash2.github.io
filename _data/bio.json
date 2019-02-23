@@ -26,6 +26,14 @@
     {
       "name": "SDN",
       "keywords": []
+    },
+    {
+      "name": "Network Programmability",
+      "keywords": ["P4"]
+    },
+    {
+      "name": "P2P Networks",
+      "keywords": ["Chord", "WebRTC"]
     }
   ],
   "skills": [
