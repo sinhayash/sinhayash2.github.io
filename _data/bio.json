@@ -8,11 +8,11 @@
     "summary": "I am a PhD student at National University of Singapore. I am working on programmable networks.",
     "phone": "",
     "location": {
-      "address": "Systems and Networking Research Lab 5, School of Computing",
-      "postalCode": "117418",
-      "city": "",
-      "region": "NUS",
-      "countryCode": "Singapore"
+      "address": "Systems and Networking Research Lab 5",
+      "postalCode": "",
+      "city": "School of Computing",
+      "region": "National University of Singapore",
+      "countryCode": ""
     },
     "profiles": [
       {
