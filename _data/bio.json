@@ -16,8 +16,8 @@
     },
     "profiles": [
       {
-        "network": "google",
-        "username": "Scholar",
+        "network": "google-scholar",
+        "username": "google-scholar",
         "url": "https://bit.ly/yashsinha"
       }
     ]

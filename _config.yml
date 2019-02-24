@@ -21,6 +21,9 @@ theme-bio: theme-bio-builtin-1.html
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
 rouge-theme: igorpro
 
+# Use custom icons
+customicons: true
+
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
