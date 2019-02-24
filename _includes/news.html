@@ -1,0 +1,10 @@
+<div class="description">
+	News:
+	<ul style="list-style: circle; height: 160px; overflow: auto;">	
+	{% for news in site.data.bio.news %}
+		<li>{{ news.date }}: {{ news.text }}</li>
+		{% if forloop.last != true %}, 
+		{% endif %}
+	{% endfor %}
+	</ul>
+</div>

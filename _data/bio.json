@@ -27,6 +27,48 @@
       }
     ]
   },
+  "news": [
+    {
+    "date": "Feb 28, 2018",
+    "text": "Awarded second prize at <a target='blank' href='http://cgo.org/cgo2018/src/'>ACM Student Research Competition (SRC)</a>, IEEE/ACM International Symposium on Code Generation and Optimization (CGO), Vienna, Austria"
+    },
+    {
+    "date": "Nov 22, 2017",
+    "text": "Invited for presentation at <a target='blank' href='http://cgo.org/cgo2018/src/'>ACM Student Research Competition (SRC)</a> to be be held with IEEE/ACM International Symposium on Code Generation and Optimization (CGO), Vienna, Austria"
+    },
+    {
+    "date": "Jun 28, 2017",
+    "text": "Presenting SDN routing in MPI at <a target='blank' href='http://www.hpdc.org/2017/'>HPDC'17</a>, Washington DC, USA"
+    },
+    {
+    "date": "May 22, 2017",
+    "text": "Presenting on intelligence trade-off in control-data plane in SDN at <a target='blank' href='http://ieee-security.org/TC/SP2017/'>SP'17</a>, San Jose, CA, USA"
+    },
+    {
+    "date": "Apr 03, 2017",
+    "text": "Presenting an algorithm on measuring control packets in SDN at <a target='blank' href='http://conferences.sigcomm.org/sosr/2017/'> SOSR'17</a>, Santa Clara, CA, USA"
+    },
+    {
+    "date": "Sep 22, 2016",
+    "text": "Presenting a WebRTC + Chord Framework at <a target='blank' href='https://sites.google.com/site/icacni2016/'>ICACNI'16</a>, NIT, Rourkela, IN."
+    },
+    {
+    "date": "Mar 23, 2016",
+    "text": "Presenting a new P2P Framework using WebRTC at <a target='blank' href='http://voyager.ce.fit.ac.jp/conf/aina/2016/venue.html#centre'>AINA'16</a>, Switzerland."
+    },
+    {
+    "date": "Dec 23, 2014",
+    "text": "Presenting at <a target='blank' href='http://misp.iiitd.ac.in/'>Winter School </a> on Character Recognition at IIITD, N.Delhi."
+    },
+    {
+    "date": "Aug 01, 2012",
+    "text": "<a target='blank' href='http://www.kvpy.iisc.ernet.in/main/fellows.htm#2011'>KVPY</a> Fellowship awarded by <a target='blank' href='http://www.dst.gov.in/'> DST</a>, Govt. of India."
+    },
+    {
+    "date": "Oct 21, 2011",
+    "text": "Presenting on Carbon Sequestration at CBSE National Level Science Exhibition."
+    }
+  ],
   "interests": [
     {
       "name": "SDN",
