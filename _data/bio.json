@@ -2,7 +2,7 @@
   "basics": {
     "name": "Yash Sinha",
     "label": "PhD Student",
-    "picture": "https://sinhayash.github.io/website/images/yash.jpg",
+    "picture": "./images/yash.jpg",
     "email": "mail.yash.sinha@gmail.com",
     "website": "https://yashsinha.com",
     "summary": "I am a PhD student at National University of Singapore. I am working on programmable networks.",
